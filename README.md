@@ -1,0 +1,2 @@
+# some_pycode_annotated_zh
+某些python模块的中文注释
